@@ -11,7 +11,7 @@ public class Test { // Création d'une class Test
 
         int tailleAleatoire = TableauElement.demanderTaille (); // Taille aléatoire des tableaux insertion, fusion, dénombrement 
 
-        TableauElement tableauBulle     = new TableauElement (tailleAleatoire); // Création d'un nouveau tableauBulle, qui donne une taille aléatoire du tableau bulle
+        TableauElement tableauBulle        = new TableauElement (tailleAleatoire); // Création d'un nouveau tableauBulle, qui donne une taille aléatoire du tableau bulle
 
         int grandeur = TableauElement.demanderBorne (); // Demande la grandeur de la clé d'élément 
 
